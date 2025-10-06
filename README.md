@@ -1,6 +1,3 @@
-# ultimate-player-analysis
-Analyze player performance from ultimate frisbee data to identify high-value players
-
 # Player Performance Analysis with Clustering and PCA
 
 ## Overview
