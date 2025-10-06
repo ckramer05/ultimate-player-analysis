@@ -6,7 +6,7 @@ Analyzed player performance from ultimate frisbee 2025 season data using KMeans 
 ## Tech Stack
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn.
 
-## Statistics visualized
+## Statistics Visualized
 - Offensive vs Defensive Usage Rates by Player
 - Offensive and Defensive Conversion Rates by Player
 - Total Plus Minus, Goals, Assists, Blocks, Turnovers, Points Played, Completions, Completion Percentage, Catches, Catching Percentage by Player
